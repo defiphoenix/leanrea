@@ -70,7 +70,7 @@ If an agent has no skills support, paste `leanrea/SKILL.md` into its rules or sy
 
 Use it:
 ```
-/leanrea How does the search feature in /Applications/Foo.app work? Show the evidence.
+/leanrea How does the search feature in Foo.app work? Show the evidence.
 ```
 
 ## What's in the skill
